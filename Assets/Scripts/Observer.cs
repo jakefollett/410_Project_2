@@ -6,7 +6,7 @@ public class Observer : MonoBehaviour
 {
     public Transform player;
     bool m_IsPlayerInRange;
-    public GameEnding GameEnding;
+    //public GameEnding GameEnding;
 
     void OnTriggerEnter(Collider other)
     {
