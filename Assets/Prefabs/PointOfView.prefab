@@ -60,3 +60,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
+  gameEnding: {fileID: 9199231400594302450, guid: 6d4eed848722cbb4b9c53d991ab5a30c,
+    type: 3}
