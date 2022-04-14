@@ -6,8 +6,8 @@ Linear Interpolation: There is a slider in the bottom left of the screen that us
 
 Particle Effect: The particle effect in our project is at the GameEnding location. The particle effect makes it more clear to the player that the escape is down that hall.
 
-Josh Jordal:
+Josh Jordal: Completed enemies 1 and 2 and added linear interpolation.
 
-Jake Follett: Completed enemies 1 and 2 and added linear interpolation.
+Jake Follett: 
 
 Cristian Ion: Completed the Camera, Ending the Game, Audio, and Particle Effect.
